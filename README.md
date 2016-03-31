@@ -1,1 +1,0 @@
-# siarhei-patronchyk.github.io
