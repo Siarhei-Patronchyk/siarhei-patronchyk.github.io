@@ -1,0 +1,28 @@
+//variables
+@import "common/_variables";
+//common styles
+@import "common/_fonts";
+@import "common/_main";
+@import "common/_header";
+@import "common/_deviceswitcher";
+@import "common/_notification";
+@import "common/_buttons";
+@import "common/_tabs";
+
+@import "common/_footer";
+@import "common/_fullscreenpage";
+@import "common/_fullscreenpageheader";
+@import "common/_sidebar";
+@import "common/_dropdownmenu";
+@import 'common/_sandboxplate';
+@import 'common/_subscriptionsplate';
+@import 'common/_navigation';
+//pages
+
+@import 'pages/_underconstructionpage';
+@import "pages/_accountsettings";
+//create application
+@import "pages/createapplication/_createapplicationpage";
+@import "pages/createapplication/_searchinput";
+@import "pages/createapplication/_dashboard";
+@import 'pages/sandbox/_sandbox';

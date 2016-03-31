@@ -1,0 +1,93 @@
+.dropdown {
+    position: relative;
+    display: inline-block;
+
+    .button {
+        cursor: pointer;
+
+        .expand-menu {
+            width: 20px;
+            height: 4px;
+            overflow: hidden;
+            path {
+                fill: $light-gray-icon;
+                fill-rule: evenodd;
+            }
+        }
+
+        &:hover {
+            path {
+                fill: $gray-icon;
+            }
+        }
+    }
+
+    .options-list {
+        padding: 0;
+        position: absolute;
+        top: 25px;
+        z-index: 1000;
+        width: 170px;
+        right: -20px;
+        display: none;
+        font-size: 14px;
+        list-style: none;
+        background-color: $text-color-white;
+        box-shadow: 0 0 10px 0 rgba(0,0,0,0.25);
+
+        a {
+            display: block;
+            padding: 10px 15px;
+            text-decoration: none;
+            color: $text-color-black;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        a:hover {
+            background-color: $main-background-color;
+        }
+
+        a .fa {
+            padding-right: 10px;
+            color: $light-gray-icon;
+        }
+    }
+
+    &.open > .options-list {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 420px) {
+
+    .dropdown {
+        .options-list {
+            width: 190px;
+        }
+    }
+
+    .sandbox-content li:nth-child(odd) .status-date .options-list {
+        left: -115px;
+    }
+    .sandbox-content li:nth-child(even) .status-date .options-list {
+        left: -165px;
+    }
+}
+
+@media screen and (max-width: 357px) {
+
+    .dropdown {
+        .options-list {
+            width: 180px;
+        }
+    }
+
+    .sandbox-content li:nth-child(odd) .status-date .options-list {
+        left: -105px;
+    }
+    .sandbox-content li:nth-child(even) .status-date .options-list {
+        left: -145px;
+    }
+}

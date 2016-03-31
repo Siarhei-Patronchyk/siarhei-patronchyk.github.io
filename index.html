@@ -1,8 +1,8 @@
-<!DOCTYPE html>
-<html class="no-js" data-version="0.0.1  0">
+﻿<!DOCTYPE html>
+<html class="no-js" data-version="%%versionstring%%">
 <head>
     <meta charset="utf-8">
-    <base href="/">
+    <base href="%%baseURL%%">
     <title>Home - AppsNgen</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -11,7 +11,17 @@
 
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" type='text/css' />
 
-    <link rel="stylesheet" href="styles/style.b270fccd.css"/>
+    <!-- build:css({.,.tmp,app}) styles/style.css -->
+    <!-- bower:css -->
+    <link rel="stylesheet" href="bower_components/ngDialog/css/ngDialog.css" />
+    <!-- endbower -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="styles/css/reset.css" />
+    <link rel="stylesheet" href="styles/css/login.css" />
+    <link rel="stylesheet" href="styles/style.css"/>
+    <!-- endbuild -->
 
 </head>
 <body class="no-touch">
@@ -22,8 +32,111 @@
 <!-- .content -->
 <footer ng-include="'views/common/footer.html'"></footer>
 <notification></notification>
-<script src="scripts/vendor.71547a8f.js"></script>
+<!-- build:js(.) scripts/vendor.js -->
+<!-- bower:js -->
+<script src="bower_components/jquery/dist/jquery.js"></script>
+<script src="bower_components/angular/angular.js"></script>
+<script src="bower_components/angular-base64/angular-base64.js"></script>
+<script src="bower_components/lodash/lodash.js"></script>
+<script src="bower_components/restangular/dist/restangular.js"></script>
+<script src="bower_components/angular-local-storage/dist/angular-local-storage.js"></script>
+<script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+<script src="bower_components/ngDialog/js/ngDialog.js"></script>
+<script src="bower_components/interact/interact.js"></script>
+<!-- endbower -->
+<script src="bower_components/angular-ui-bootstrap/src/dropdown/dropdown.js"></script>
+<script src="bower_components/angular-ui-bootstrap/src/position/position.js"></script>
+<!-- vendors -->
+<script src="vendors/GoogleAnalytics.js"></script>
 
-<script src="scripts/scripts.c1ffc13c.js"></script>
+<!-- endbuild -->
+
+<!-- build:js({.tmp,app}) scripts/scripts.js -->
+<!--Auth-->
+<script src="scripts/auth/auth.js"></script>
+<script src="scripts/auth/services/loginservice.js"></script>
+<script src="scripts/auth/services/authservice.js"></script>
+<script src="scripts/auth/services/authsession.js"></script>
+<script src="scripts/auth/services/authepamssoservice.js"></script>
+<script src="scripts/auth/controllers/loginctrl.js"></script>
+<script src="scripts/auth/controllers/logoutctrl.js"></script>
+<script src="scripts/auth/controllers/loginepamssocallbackctrl.js"></script>
+<script src="scripts/auth/directives/logindirectives.js"></script>
+
+<!--Accountsettings-->
+<script src="scripts/accountsettings/accountsettings.js"></script>
+<script src="scripts/accountsettings/controllers/accountctrl.js"></script>
+
+<!--Common-->
+<script src="scripts/common/common.js"></script>
+<script src="scripts/common/controllers/tabsetctrl.js"></script>
+<script src="scripts/common/controllers/headerctrl.js"></script>
+<script src="scripts/common/controllers/navigationctrl.js"></script>
+<script src="scripts/common/directives/underconstructionpage.js"></script>
+<script src="scripts/common/directives/headermenu.js"></script>
+<script src="scripts/common/directives/dropdownmenu.js"></script>
+<script src="scripts/common/directives/fullscreenpage.js"></script>
+<script src="scripts/common/directives/fullscreenpageheader.js"></script>
+<script src="scripts/common/directives/sidebar.js"></script>
+<script src="scripts/common/directives/deviceswitcher.js"></script>
+<script src="scripts/common/directives/notification.js"></script>
+<script src="scripts/common/directives/droppable.js"></script>
+<script src="scripts/common/directives/draggable.js"></script>
+<script src="scripts/common/directives/errorsrc.js"></script>
+<script src="scripts/common/directives/tabs.js"></script>
+<script src="scripts/common/directives/resize.js"></script>
+<script src="scripts/common/directives/navigation.js"></script>
+<script src="scripts/common/services/notifier.js"></script>
+<script src="scripts/common/services/restservices.js"></script>
+<script src="scripts/common/services/actionservice.js"></script>
+<script src="scripts/common/services/paging.js"></script>
+<script src="scripts/common/services/appsngenapi.js"></script>
+<script src="scripts/common/services/dashboardapi.js"></script>
+<script src="scripts/common/filters/join.js"></script>
+
+<!--Data-->
+<script src="scripts/data/data.js"></script>
+<script src="scripts/data/services/tokenservice.js"></script>
+<script src="scripts/data/services/usersservice.js"></script>
+<script src="scripts/data/services/dashboardservice.js"></script>
+<script src="scripts/data/services/widgetservice.js"></script>
+<script src="scripts/data/services/datasourceservice.js"></script>
+<script src="scripts/data/services/applicationservice.js"></script>
+
+<!-- Application -->
+<script src="scripts/application/application.js"></script>
+<script src="scripts/application/controllers/createapplicationctrl.js"></script>
+<script src="scripts/application/directives/searchinput.js"></script>
+<script src="scripts/application/directives/dashboard.js"></script>
+
+<!-- Sandbox -->
+<script src="scripts/sandbox/sandbox.js"></script>
+<script src="scripts/sandbox/widget/widget.js"></script>
+<script src="scripts/sandbox/widget/controllers/sandboxwidgetsctrl.js"></script>
+<script src="scripts/sandbox/datasource/datasource.js"></script>
+<script src="scripts/sandbox/datasource/controllers/sandboxdatasourcectrl.js"></script>
+<script src="scripts/sandbox/application/application.js"></script>
+<script src="scripts/sandbox/application/controllers/sandboxapplicationctrl.js"></script>
+<script src="scripts/sandbox/dashboard/dashboard.js"></script>
+<script src="scripts/sandbox/dashboard/controllers/sandboxdasboardctrl.js"></script>
+<script src="scripts/sandbox/common/common.js"></script>
+<script src="scripts/sandbox/common/controllers/sandboxctrl.js"></script>
+<script src="scripts/sandbox/common/directives/sandboxplate.js"></script>
+<script src="scripts/sandbox/common/directives/sandboxactionplate.js"></script>
+
+<!-- Subscriptions -->
+<script src="scripts/subscriptions/subscriptions.js"></script>
+<script src="scripts/subscriptions/widget/widget.js"></script>
+<script src="scripts/subscriptions/widget/controllers/subscriptionswidgetsctrl.js"></script>
+<script src="scripts/subscriptions/datasource/datasource.js"></script>
+<script src="scripts/subscriptions/datasource/controllers/subscriptionsdatasourcectrl.js"></script>
+<script src="scripts/subscriptions/common/common.js"></script>
+<script src="scripts/subscriptions/common/directives/subscriptionsplate.js"></script>
+<script src="scripts/subscriptions/common/controllers/subscriptionsctrl.js"></script>
+
+<script src="scripts/bootstrapper.js"></script>
+<script src="scripts/app.js"></script>
+<script src="scripts/routing.js"></script>
+<!-- endbuild -->
 </body>
 </html>
