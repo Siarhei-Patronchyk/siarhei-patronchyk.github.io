@@ -561,8 +561,8 @@ iframe {
   background: #ff8000;
   border-color: #ff8000; }
   .btn-brand:enabled:active, .btn-brand:enabled:hover {
-    background: #12acc1;
-    border-color: #12acc1; }
+    background: #ff8e00;
+    border-color: #ff8e00; }
 
 .btn-default {
   color: #606060;
