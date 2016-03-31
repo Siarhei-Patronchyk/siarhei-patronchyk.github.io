@@ -1,0 +1,28 @@
+<div class="account-page">
+    <div class="user-head">
+        <div class="user-image"></div>
+        <h6 class="text-center disabled">Update photo</h6>
+    </div>
+    <h4>Basic information</h4>
+    <div class="field-group">
+        <h6 class="field-name text-left">Name</h6>
+        <p class="text-left border-bottom">
+            <span ng-bind="username"/>
+        </p>
+        <h6 class="field-name text-left">Company</h6>
+        <p class="text-left border-bottom">
+            <span ng-bind="organizationName"/>
+        </p>
+        <h6 class="field-name text-left">Email</h6>
+        <p class="text-left border-bottom">
+            <span ng-bind="email"/>
+        </p>
+        <h4 class="disabled">Password</h4>
+        <p class="text-center disabled">
+            Last changed 3 month ago. <!--<a href>Change password</a>-->
+        </p>
+        <div role="button" class="btn btn-brand btn-wide disabled">
+            update settings
+        </div>
+    </div>
+</div>

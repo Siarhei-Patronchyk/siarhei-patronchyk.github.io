@@ -1,0 +1,85 @@
+<div class="device-switcher">
+    <div class="expand-menu-container">
+        <label for="expandMenu">
+            <svg class="expand-menu" viewBox="0 0 20 4">
+                <path
+                    d="M5814,1356a2,2,0,1,1-2,2A2.006,2.006,0,0,1,5814,1356Zm8,0a2,2,0,1,1-2,2A2.006,2.006,0,0,1,5822,1356Zm8,0a2,2,0,1,1-2,2A2.006,2.006,0,0,1,5830,1356Z"
+                    transform="translate(-5812 -1356)"/>
+            </svg>
+        </label>
+        <input id="expandMenu" class="expand-menu" type="checkbox">
+
+        <ul class="menu">
+            <li layout="desktop">
+                <label for="setDesktop">
+                    <input type="checkbox" id="setDesktop" class="desktop" mode="desktop">
+                    <div>
+                        <svg viewBox="0 0 42 42" class="device desktop">
+                            <path
+                                d="M3590,1350h-18a2,2,0,0,0-2,2v12a2,2,0,0,0,2,2h7v3h-2v1h8v-1h-2v-3h7a2.006,2.006,0,0,0,2-2v-12A2.006,2.006,0,0,0,3590,1350Zm-8,19h-2v-3h2v3Zm9-5a1,1,0,0,1-1,1h-18a1,1,0,0,1-1-1v-2h20v2Zm0-3h-20v-9a1,1,0,0,1,1-1h18a1,1,0,0,1,1,1v9Z"
+                                transform="translate(-3560 -1339)"/>
+                        </svg>
+                        Desktop
+                    </div>
+                    <div class="check-icon"></div>
+                </label>
+            </li>
+            <li layout="tablet">
+                <label for="setTablet">
+                    <input type="checkbox" id="setTablet" class="tablet" mode="tablet">
+                    <div>
+                        <svg viewBox="0 0 42 42" class="device tablet">
+                            <path
+                                d="M3639.5,1350h-21a1.5,1.5,0,0,0-1.5,1.5v14a1.5,1.5,0,0,0,1.5,1.5h21a1.5,1.5,0,0,0,1.5-1.5v-14A1.5,1.5,0,0,0,3639.5,1350Zm-19.5,16h-1.5a0.5,0.5,0,0,1-.5-0.5v-14a0.5,0.5,0,0,1,.5-0.5h1.5v15Zm16,0h-15v-15h15v15Zm4-.5a0.5,0.5,0,0,1-.5.5H3637v-15h2.5a0.5,0.5,0,0,1,.5.5v14Zm-2-7.5v1h1v-1h-1Z"
+                                transform="translate(-3608 -1337)"/>
+                        </svg>
+                        Tablet
+                    </div>
+                    <div class="check-icon"></div>
+                </label>
+            </li>
+            <li layout="mobile">
+                <label for="setMobile">
+                    <input type="checkbox" id="setMobile" class="mobile" mode="mobile">
+                    <div>
+                        <svg viewBox="0 0 42 42" class="device mobile">
+                            <path
+                                d="M3648,1346h-8a2.006,2.006,0,0,0-2,2v20a2.006,2.006,0,0,0,2,2h8a2.006,2.006,0,0,0,2-2v-20A2.006,2.006,0,0,0,3648,1346Zm1,22a1,1,0,0,1-1,1h-8a1,1,0,0,1-1-1v-3h10v3Zm0-4h-10v-13h10v13Zm-10-14v-2a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1v2h-10Zm5,18a1,1,0,1,0-1-1A1,1,0,0,0,3644,1368Z"
+                                transform="translate(-3623 -1337)"/>
+                        </svg>
+                        Phone
+                    </div>
+                    <div class="check-icon"></div>
+                </label>
+            </li>
+        </ul>
+    </div>
+    <div class="devices-wrapper">
+        <label for="desktop" layout="desktop">
+            <input id="desktop" name="device" type="radio" class="desktop">
+            <svg viewBox="0 0 42 42" class="device desktop">
+                <path
+                    d="M3590,1350h-18a2,2,0,0,0-2,2v12a2,2,0,0,0,2,2h7v3h-2v1h8v-1h-2v-3h7a2.006,2.006,0,0,0,2-2v-12A2.006,2.006,0,0,0,3590,1350Zm-8,19h-2v-3h2v3Zm9-5a1,1,0,0,1-1,1h-18a1,1,0,0,1-1-1v-2h20v2Zm0-3h-20v-9a1,1,0,0,1,1-1h18a1,1,0,0,1,1,1v9Z"
+                    transform="translate(-3560 -1339)"/>
+            </svg>
+        </label>
+
+        <label for="tablet" layout="tablet">
+            <input id="tablet" name="device" type="radio" class="tablet">
+            <svg viewBox="0 0 42 42" class="device tablet">
+                <path
+                    d="M3639.5,1350h-21a1.5,1.5,0,0,0-1.5,1.5v14a1.5,1.5,0,0,0,1.5,1.5h21a1.5,1.5,0,0,0,1.5-1.5v-14A1.5,1.5,0,0,0,3639.5,1350Zm-19.5,16h-1.5a0.5,0.5,0,0,1-.5-0.5v-14a0.5,0.5,0,0,1,.5-0.5h1.5v15Zm16,0h-15v-15h15v15Zm4-.5a0.5,0.5,0,0,1-.5.5H3637v-15h2.5a0.5,0.5,0,0,1,.5.5v14Zm-2-7.5v1h1v-1h-1Z"
+                    transform="translate(-3608 -1337)"/>
+            </svg>
+        </label>
+
+        <label for="mobile" layout="mobile">
+            <input id="mobile" name="device" type="radio" class="mobile">
+            <svg viewBox="0 0 42 42" class="device mobile">
+                <path
+                    d="M3648,1346h-8a2.006,2.006,0,0,0-2,2v20a2.006,2.006,0,0,0,2,2h8a2.006,2.006,0,0,0,2-2v-20A2.006,2.006,0,0,0,3648,1346Zm1,22a1,1,0,0,1-1,1h-8a1,1,0,0,1-1-1v-3h10v3Zm0-4h-10v-13h10v13Zm-10-14v-2a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1v2h-10Zm5,18a1,1,0,1,0-1-1A1,1,0,0,0,3644,1368Z"
+                    transform="translate(-3623 -1337)"/>
+            </svg>
+        </label>
+    </div>
+</div>

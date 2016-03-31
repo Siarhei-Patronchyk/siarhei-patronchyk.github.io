@@ -1,0 +1,34 @@
+<div full-screen-page class="full-screen-page-container create-application">
+    <full-screen-page-header></full-screen-page-header>
+    <div class="full-screen-page-content">
+        <sidebar without-search="false">
+            <div class="draggable-items">
+                <div class="dashboards">
+                    <div draggable draggable-init-object="draggableListInitObject" ng-hide="dashboard.droped"
+                         ng-repeat="dashboard in dashboards" class="draggable-container" id="dashboardList{{$index}}">
+                        <dashboard type="{{::dashboard.type}}" name="{{::dashboard.name}}"
+                                   widget-list="{{::dashboard.widgets.join(' \u22C5 ')}}" index="{{$index}}" id="{{dashboard.id}}"></dashboard>
+                    </div>
+                </div>
+            </div>
+        </sidebar>
+        <div class="full-screen-page-view">
+            <div droppable droppable-init-object="droppableInitObject" class="droppable-area" id="droppableArea">
+                <div class="dashboards">
+                    <div draggable draggable-init-object="draggableFildInitObject" ng-show="dashboard.droped"
+                         ng-repeat="dashboard in dashboards" id="dashboardField{{$index}}">
+                        <dashboard type="{{::dashboard.type}}" name="{{::dashboard.name}}"
+                                   widget-list="{{::dashboard.widgets.join(' \u22C5 ')}}" id="{{dashboard.id}}"></dashboard>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dimension-message">
+        <h3>Not supported dimension.</h3>
+
+        <p>
+            Minimum screen resolution is 600 pixels.
+        </p>
+    </div>
+</div>

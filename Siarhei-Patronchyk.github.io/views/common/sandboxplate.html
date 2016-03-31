@@ -1,0 +1,52 @@
+<div class="sandbox-plate uploaded">
+    <div class="btn-delete"></div>
+    <div ng-if="applications" class="btn-info">
+        <i class="fa fa-info-circle fa-lg"></i>
+        <span class="popover-info">
+            <span>
+                Some awesome datasource list
+            </span>
+        </span>
+    </div>
+    <div class="indicator-in-use" ng-if="dashboards && !plate.editable">in use</div>
+    <div class="img-icon">
+        <img ng-if="!dashboards" alt="{{plate.name}}" ng-src="{{getThumbnailURL(plate)}}" error-src="images/mobile-icon-2.png" class="img-icon-wide" />
+        <div ng-if="dashboards" ng-class="plate.devices" class="device-icon"></div>
+    </div>
+
+        <div>
+            <h6 class="plate-name">
+                {{::plate.name}}
+            </h6>
+            <div class="tooltip">
+                {{::plate.name}}
+            </div>
+        </div>
+        <div class="status">
+            <a>
+                <span>
+                    <span ng-if="plate.status" class="status-indicator {{plate.status.toLowerCase()}}"></span>
+                    <span ng-if="plate.status">
+                        {{plate.status}}
+                    </span>
+                    <span ng-if="!plate.status && applications" class="text-color-grey text-elipsis">
+                        iPhone &#8226 iPad &#8226 Desktop
+                    </span>
+                    <div ng-if="plate.widgets">
+                        <span class="widget-list text-color-grey">
+                            {{::plate.widgets | join:' • '}}
+                        </span>
+                        <span class="tooltip">
+                            {{::plate.widgets | join:' • '}}
+                        </span>
+                    </div>
+                </span>
+            </a>
+        </div>
+        <div class="status-date">
+            <div class="date">{{plate.uploadDate || '15.02.2013'}}</div>
+            <dropdown-menu ng-if="!applications && !dashboards" items="actionOptions.items" ontoggle="toggled(open)"></dropdown-menu>
+            <div ng-if="applications || dashboards" class="external-link"></div>
+        </div>
+
+</div>
