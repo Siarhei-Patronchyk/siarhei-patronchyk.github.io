@@ -38,14 +38,12 @@
             </fieldset>
         </form>
         <div class="separator">
-            <p class="text">Or</p>
         </div>
         <form action="{{authUrl}}">
             <input type="hidden" name="client_id" value="{{clientId}}"/>
             <input type="hidden" name="redirect_uri" value="{{redirectUri}}"/>
             <input type="hidden" name="resource" value="{{resource}}"/>
             <input type="hidden" name="response_type" value="code"/>
-            <button type="submit" class="btn btn-plum btn-epam-sso">< EPAM LOGIN ></button>
         </form>
         <div class="logo-image">
             <a class="image" ng-href="{{marketingEndpoint}}" target="_self"></a>

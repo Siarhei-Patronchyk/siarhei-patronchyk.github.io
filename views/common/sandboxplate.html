@@ -3,8 +3,8 @@
     <div ng-if="applications" class="btn-info">
         <i class="fa fa-info-circle fa-lg"></i>
         <span class="popover-info">
-            <span>
-                Some awesome datasource list
+            <span ng-repeat="name in plate.dashboardNames">
+                {{name}}
             </span>
         </span>
     </div>
@@ -30,7 +30,7 @@
                         {{plate.status}}
                     </span>
                     <span ng-if="!plate.status && applications" class="text-color-grey text-elipsis">
-                        iPhone &#8226 iPad &#8226 Desktop
+                        {{::plate.deviceNames | join:' • '}}
                     </span>
                     <div ng-if="plate.widgets">
                         <span class="widget-list text-color-grey">
@@ -44,7 +44,7 @@
             </a>
         </div>
         <div class="status-date">
-            <div class="date">{{plate.uploadDate || '15.02.2013'}}</div>
+            <div class="date">{{plate.uploadDate || plate.lastModified || plate.updateDate}}</div>
             <dropdown-menu ng-if="!applications && !dashboards" items="actionOptions.items" ontoggle="toggled(open)"></dropdown-menu>
             <div ng-if="applications || dashboards" class="external-link"></div>
         </div>
