@@ -1,100 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eb28f59-5066-44ca-8fc9-1ef7c60dba6c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/my-view1.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/error.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-Bold.49c0146b.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-BoldItalic.f723f1e9.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-Demi-BoldItalic.0cdd1943.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-DemiBold.1b5bdee5.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-Extra-LightItalic.76093a71.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-ExtraLight.778e8116.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-Heavy.366844ae.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-HeavyItalic.340b11dc.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-Light.ce1a9eff.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-LightItalic.e2e95532.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-Medium.fbd168a9.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-MediumItalic.61e9fa21.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-Regular.dae7feb2.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-RegularItalic.f75bd4ae.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oswald-Stencil.d026a861.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-Black.28c6ecdb.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-BlackIt.5fd9a372.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-Bold.4b35bdf1.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-BoldIt.646630cf.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-ExtraLight.511a8a99.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-ExtraLightIt.d90a5703.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-It.e5e45f3b.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-Light.811996ee.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-LightIt.5fb04f36.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-Regular.8346ba00.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-Semibold.e3a9dd41.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SourceSansPro-SemiboldIt.6ba236bb.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/appsngen-header-logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/desktop-ipad-iphone.27a8406d.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/desktop-ipad-iphone.88b7a5ff.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/desktop-ipad.3cbcb2a2.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/desktop-ipad.712f32bb.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/desktop-iphone.df5cf336.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/desktop.1f3335ef.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/desktop.754134f6.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home-arrow-sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home-footerLogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home-ngenAppHeaderLogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ipad-iphone.67878d2c.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ipad.fda6b119.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/iphone.31a8c250.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/login-closeButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loginBg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mobile-icon-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/not-sup-dimensions.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sprite-branding.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/success.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/under-construction-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/under-constructionBg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/user-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/widget-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/widgetconfig-actions.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/scripts.c1ffc13c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vendor.71547a8f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/style.b270fccd.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/style.ec26274a.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/accountsettings/accountsettings.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/application/create-application.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/auth/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/auth/loginepamssocallback.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/dashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/deviceswitcher.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/dropdown-menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/fullscreenpageheader.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/notification.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/sandboxactionplate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/sandboxplate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/searchinput.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/sidebar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/subscriptionsplate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/common/tabset.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/sandbox/application/sandboxapplication.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/sandbox/dashboard/sandboxdashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/sandbox/datasource/sandboxdatasource.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/sandbox/widget/sandboxwidget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/subscriptions/datasources/subscriptionsdatasources.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/subscriptions/widgets/subscriptionswidgets.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/underconstruction/underconstruction.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico" afterPath="$PROJECT_DIR$/images/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="4eb28f59-5066-44ca-8fc9-1ef7c60dba6c" name="Default" comment="" />
     <ignored path="siarhei-patronchyk.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -375,16 +282,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1472060279583</updated>
-      <workItem from="1472060281003" duration="5897000" />
+      <workItem from="1472060281003" duration="6171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5897000" />
+    <option name="totallyTimeSpent" value="6171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969843" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -392,7 +299,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
