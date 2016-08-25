@@ -1488,7 +1488,7 @@ var r=t.propertyDataFromStyles(n._styles,this),i=!this.__notStyleScopeCacheable;
   <template>
     <style>
       :host {
-        --app-primary-color: #4285f4;
+        --app-primary-color: #6a90d0;
         --app-secondary-color: black;
 
         display: block;
@@ -1497,6 +1497,7 @@ var r=t.propertyDataFromStyles(n._styles,this),i=!this.__notStyleScopeCacheable;
       app-header {
         color: #fff;
         background-color: var(--app-primary-color);
+        font-family: 'Bad Script', cursive;
       }
       app-header paper-icon-button {
         --paper-icon-button-ink-color: white;
@@ -1523,6 +1524,10 @@ var r=t.propertyDataFromStyles(n._styles,this),i=!this.__notStyleScopeCacheable;
 
         font-weight: bold;
       }
+
+      h4 {
+        margin-left: 20px;
+      }
     </style>
 
     <app-location route="{{route}}"></app-location>
@@ -1530,7 +1535,7 @@ var r=t.propertyDataFromStyles(n._styles,this),i=!this.__notStyleScopeCacheable;
 
     <app-drawer-layout fullbleed="">
       
-      <app-drawer align="start" opened="">
+      <app-drawer align="start">
         <app-toolbar>Работы</app-toolbar>
         <iron-selector selected="[[page]]" attr-for-selected="name" class="drawer-list" role="navigation">
           <a name="view1" href="/view1">Игрушки</a>
@@ -1541,12 +1546,14 @@ var r=t.propertyDataFromStyles(n._styles,this),i=!this.__notStyleScopeCacheable;
       </app-drawer>
 
       
-      <app-header-layout has-scrolling-region="">
+      <app-header-layout>
 
-        <app-header condenses="" reveals="" effects="waterfall">
+        <app-header fixed="" condenses="" reveals="" effects="waterfall" resize-title="" blend-background="">
           <app-toolbar>
             <paper-icon-button icon="menu" drawer-toggle=""></paper-icon-button>
-            <div main-title="">Кит полосатик</div>
+            <h4 main-title="">Кит-Полосатик</h4>
+          </app-toolbar>
+          <app-toolbar>
           </app-toolbar>
         </app-header>
 
