@@ -2,477 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb28f59-5066-44ca-8fc9-1ef7c60dba6c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/accessibility-developer-tools/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/accessibility-developer-tools/Changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/accessibility-developer-tools/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/accessibility-developer-tools/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/accessibility-developer-tools/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/accessibility-developer-tools/dist/js/axs_testing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/accessibility-developer-tools/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-drawer-layout/app-drawer-layout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-drawer/app-drawer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-header-layout/app-header-layout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-header/app-header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/app-scroll-effects-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/app-scroll-effects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/blend-background.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/fade-background.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/material.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/parallax-background.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/resize-snapped-title.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/resize-title.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/waterfall.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-toolbar/app-toolbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-layout/helpers/helpers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-route/app-location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-route/app-route-converter-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/app-route/app-route.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/deps/nodeunit.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/deps/nodeunit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/dist/async.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/dist/async.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/dist/async.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/lib/async.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/mocha_test/compose.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/mocha_test/forever.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/mocha_test/support/is_browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/perf/benchmark.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/perf/memory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/perf/suites.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/async/support/sync-package-managers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/CODE_OF_CONDUCT.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/History.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/ReleaseNotes.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/chai.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/karma.sauce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/chai/sauce.browsers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/font-roboto/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/font-roboto/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/font-roboto/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/font-roboto/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/font-roboto/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/font-roboto/roboto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-ajax/iron-ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-ajax/iron-request.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-behaviors/iron-button-state.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-behaviors/iron-control-state.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/demo/simple-checkbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/iron-checked-element-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/test/basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/test/simple-checkbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-fit-behavior/iron-fit-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/iron-flex-layout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/demo/simple-element.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/demo/simple-form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/iron-form-element-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/test/basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/test/simple-element.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/test/simple-form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-form/iron-form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-icon/iron-icon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-iconset-svg/iron-iconset-svg.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-image/iron-image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-localstorage/iron-localstorage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-location/iron-location.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-location/iron-query-params.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-media-query/iron-media-query.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-meta/iron-meta.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/iron-overlay-backdrop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/iron-overlay-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/iron-overlay-manager.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-pages/iron-pages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/iron-resizable-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-scroll-target-behavior/iron-scroll-target-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-selector/iron-multi-selectable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-selector/iron-selectable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-selector/iron-selection.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-selector/iron-selector.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/demo/cats-only.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/demo/validatable-input.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/iron-validatable-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/test/cats-only.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/test/dogs-only.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/test/iron-validatable-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/test/test-validatable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/lodash/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/lodash/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/lodash/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/lodash/lodash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/lodash/lodash.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/.mailmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/assets/mocha-banner-192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/assets/mocha-banner.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/assets/mocha-logo-128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/assets/mocha-logo-192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/assets/mocha-logo-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/assets/mocha-logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/browser-entry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/media/logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/mocha.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/mocha.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/mocha/scripts/upgrade-npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-behaviors/paper-inky-focus-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-behaviors/paper-ripple-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-icon-button/paper-icon-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/paper-ripple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-spinner/paper-spinner-behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-spinner/paper-spinner-lite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-spinner/paper-spinner-styles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-styles/color.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-styles/default-theme.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer-micro.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer-mini.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/promise-polyfill/Promise.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/promise-polyfill/promise-polyfill-lite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/lib/sinon-chai.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/test/callArguments.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/test/callContext.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/test/callCount.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/test/callOrder.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/test/callingWithNew.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/test/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/test/messages.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/test/mocha.opts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/test/regressions.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/test/returning.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinon-chai/test/throwing.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinonjs/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinonjs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinonjs/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/sinonjs/sinon.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/stacky/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/stacky/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/stacky/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/stacky/browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/stacky/lib/formatting.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/stacky/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/stacky/lib/normalization.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/stacky/lib/parsing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/.github/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/test-fixture-mocha.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/test-fixture.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/test/handle-multiple-registrations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/test/test-fixture.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/test-fixture/wct.conf.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/web-component-tester/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/web-component-tester/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/web-component-tester/browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/web-component-tester/browser.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/web-component-tester/data/a11ySuite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/web-component-tester/data/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/CustomElements.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/CustomElements.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/HTMLImports.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/HTMLImports.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/MutationObserver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/MutationObserver.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/ShadowDOM.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/ShadowDOM.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/build.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-11017A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-11017B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-11019A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-11019B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13018A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13018B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13058A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13058B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13097A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13097B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13130A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13130B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13153A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13153B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13213A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13213B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13239A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13239B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13240A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13240B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13241A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13241B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13256A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13256B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13260A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13260B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13262A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13262B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13263A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13263B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13264A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13264B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13265A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13265B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13266A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13266B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13267A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13267B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13268A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13268B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13269A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13269B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13270A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13270B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13271A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13271B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13272A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13272B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13273A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13273B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13274A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13274B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13275A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13275B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13276A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13276B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13277A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13277B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13278A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13278B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13279A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13279B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13280A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13280B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13282A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13282B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13285A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13285B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13286A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13286B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13288A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13288B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13289A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13289B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13290A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13290B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13291A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13291B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13292A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-13292B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14133A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14133B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14146A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14146B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14152A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14152B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14153A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14153B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14154A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14154B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14155A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14155B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14157A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14157B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14158A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14158B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14159A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14159B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14160A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14160B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14215A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14215B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14216A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14216B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14217A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-14217B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-15041A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-15041B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-15068A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-15068B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-15103A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-15103B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23069A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23069B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23073A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23073B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23169A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23169B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23171A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23171B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23172A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23172B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23173A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23173B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23174A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23174B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23176A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23176B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23177A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23177B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23178A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23178B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23179A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23179B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23180A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23180B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23198A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23198B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23225A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23225B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23226A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23226B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23227A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23227B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23228A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23228B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23229A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23229B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23230A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-23230B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-24097A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-24097B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-24098A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-24098B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-24099A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-24099B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-24101A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-24101B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-24102A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-24102B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-25058A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/images/10-25058B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ladies_outerwear.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ladies_tshirts.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/mens_outerwear.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/mens_tshirts.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sample_error_response.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/sample_success_response.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ladies_outerwear.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ladies_tshirts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mens_outerwear.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mens_tshirts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/shop-icon-128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/shop-icon-192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/shop-icon-32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/shop-icon-384.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ladies_outerwear.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ladies_tshirts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mens_outerwear.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mens_tshirts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service-worker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shop-icon-128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shop-icon-192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shop-icon-32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shop-icon-384.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/lazy-resources.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-app.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-view1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-view2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-view3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-view4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-view404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shared-styles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-analytics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-app.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-cart-data.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-cart-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-cart-modal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-cart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-category-data.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-checkbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-checkout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-common-styles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-form-styles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-input.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-list-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-network-warning.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-ripple-container.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-select.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-snackbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-tab.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-tabs-overlay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/shop-tabs.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="$PROJECT_DIR$/LICENSE.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery/assets/css/font-awesome.min.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/ie9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/images/arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/images/close.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/images/spinner.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/ie/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.poptrox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/skel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/components/_panel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/components/_poptrox-popup.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/ie8.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/ie9.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="$PROJECT_DIR$/gallery/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/gallery/README.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/ie8.css" afterPath="$PROJECT_DIR$/gallery/assets/css/ie8.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/ie9.css" afterPath="$PROJECT_DIR$/gallery/assets/css/ie9.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/images/arrow.svg" afterPath="$PROJECT_DIR$/gallery/assets/css/images/arrow.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/images/close.svg" afterPath="$PROJECT_DIR$/gallery/assets/css/images/close.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/images/spinner.svg" afterPath="$PROJECT_DIR$/gallery/assets/css/images/spinner.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/gallery/assets/css/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/gallery/assets/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/gallery/assets/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/gallery/assets/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/gallery/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/gallery/assets/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/gallery/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" afterPath="$PROJECT_DIR$/gallery/assets/js/ie/html5shiv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/respond.min.js" afterPath="$PROJECT_DIR$/gallery/assets/js/ie/respond.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/gallery/assets/js/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.poptrox.min.js" afterPath="$PROJECT_DIR$/gallery/assets/js/jquery.poptrox.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/gallery/assets/js/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/skel.min.js" afterPath="$PROJECT_DIR$/gallery/assets/js/skel.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="$PROJECT_DIR$/gallery/assets/js/util.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/base/_page.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/base/_typography.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/components/_button.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/components/_form.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/components/_icon.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/components/_list.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_panel.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/components/_panel.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_poptrox-popup.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/components/_poptrox-popup.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/components/_table.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/ie8.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/ie8.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/ie9.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/ie9.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/layout/_footer.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/layout/_header.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/layout/_main.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/layout/_wrapper.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/libs/_functions.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/libs/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/libs/_skel.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/libs/_vars.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="$PROJECT_DIR$/gallery/assets/sass/main.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/01.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/02.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/03.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/04.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/05.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/05.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/06.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/07.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/07.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/08.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/08.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/09.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/09.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/10.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/11.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fulls/12.jpg" afterPath="$PROJECT_DIR$/gallery/images/fulls/12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/01.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/02.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/03.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/04.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/05.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/05.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/06.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/07.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/07.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/08.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/08.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/09.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/09.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/10.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/11.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thumbs/12.jpg" afterPath="$PROJECT_DIR$/gallery/images/thumbs/12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/gallery/index.html" />
     </list>
     <ignored path="siarhei-patronchyk.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -490,7 +127,18 @@
     <favorites_list name="siarhei-patronchyk.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gallery/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2010">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -503,6 +151,8 @@
         <option value="$PROJECT_DIR$/src/toys.html" />
         <option value="$PROJECT_DIR$/src/my-view2.html" />
         <option value="$PROJECT_DIR$/src/my-view1.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/gallery/index.html" />
       </list>
     </option>
   </component>
@@ -557,6 +207,9 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\Projects\siarhei-patronchyk.github.io\gallery" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Kuzhelko_handmade\Project\siarhei-patronchyk.github.io\src" />
     </key>
@@ -641,7 +294,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7436000" />
+    <option name="totallyTimeSpent" value="7713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
@@ -652,7 +305,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280899" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17078651" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -963,7 +616,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/gallery/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-67">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1027,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/iron-image/iron-image.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6425">
@@ -1062,6 +708,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="134" lean-forward="false" selection-start-line="28" selection-start-column="134" selection-end-line="28" selection-end-column="134" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2010">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
