@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4eb28f59-5066-44ca-8fc9-1ef7c60dba6c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-demo.html" afterPath="$PROJECT_DIR$/index-demo.html" />
     </list>
     <ignored path="siarhei-patronchyk.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +47,8 @@
       <file leaf-file-name="index-demo.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index-demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+            <state relative-caret-position="595">
+              <caret line="56" column="80" lean-forward="false" selection-start-line="56" selection-start-column="80" selection-end-line="56" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -101,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/my-view1.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/gallery/index.html" />
+        <option value="$PROJECT_DIR$/index-demo.html" />
       </list>
     </option>
   </component>
@@ -260,12 +262,12 @@
       <option name="presentableId" value="Default" />
       <updated>1472060279583</updated>
       <workItem from="1472060281003" duration="6960000" />
-      <workItem from="1511634758858" duration="724000" />
+      <workItem from="1511634758858" duration="1423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9144000" />
+    <option name="totallyTimeSpent" value="9843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
@@ -402,8 +404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index-demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        <state relative-caret-position="595">
+          <caret line="56" column="80" lean-forward="false" selection-start-line="56" selection-start-column="80" selection-end-line="56" selection-end-column="80" />
           <folding />
         </state>
       </provider>
