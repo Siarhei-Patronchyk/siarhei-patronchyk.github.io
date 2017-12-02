@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb28f59-5066-44ca-8fc9-1ef7c60dba6c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/fulls/01.jpg" afterPath="$PROJECT_DIR$/images/gallery/fulls/01.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/fulls/02.jpg" afterPath="$PROJECT_DIR$/images/gallery/fulls/02.jpg" />
       <change beforePath="$PROJECT_DIR$/images/gallery/fulls/04.jpg" afterPath="$PROJECT_DIR$/images/gallery/fulls/04.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/fulls/05.jpg" afterPath="$PROJECT_DIR$/images/gallery/fulls/05.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/fulls/06.jpg" afterPath="$PROJECT_DIR$/images/gallery/fulls/06.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/fulls/07.jpg" afterPath="$PROJECT_DIR$/images/gallery/fulls/07.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/fulls/08.jpg" afterPath="$PROJECT_DIR$/images/gallery/fulls/08.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/fulls/09.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/fulls/10.jpg" afterPath="$PROJECT_DIR$/images/gallery/fulls/10.jpg" />
       <change beforePath="$PROJECT_DIR$/images/gallery/fulls/11.jpg" afterPath="$PROJECT_DIR$/images/gallery/fulls/11.jpg" />
       <change beforePath="$PROJECT_DIR$/images/gallery/fulls/12.jpg" afterPath="$PROJECT_DIR$/images/gallery/fulls/12.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/01.jpg" afterPath="$PROJECT_DIR$/images/gallery/thumbs/01.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/02.jpg" afterPath="$PROJECT_DIR$/images/gallery/thumbs/02.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/04.jpg" afterPath="$PROJECT_DIR$/images/gallery/thumbs/04.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/05.jpg" afterPath="$PROJECT_DIR$/images/gallery/thumbs/05.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/06.jpg" afterPath="$PROJECT_DIR$/images/gallery/thumbs/06.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/07.jpg" afterPath="$PROJECT_DIR$/images/gallery/thumbs/07.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/08.jpg" afterPath="$PROJECT_DIR$/images/gallery/thumbs/08.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/09.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/10.jpg" afterPath="$PROJECT_DIR$/images/gallery/thumbs/10.jpg" />
       <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/11.jpg" afterPath="$PROJECT_DIR$/images/gallery/thumbs/11.jpg" />
       <change beforePath="$PROJECT_DIR$/images/gallery/thumbs/12.jpg" afterPath="$PROJECT_DIR$/images/gallery/thumbs/12.jpg" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -57,8 +64,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="218" column="80" lean-forward="false" selection-start-line="218" selection-start-column="80" selection-end-line="218" selection-end-column="80" />
+            <state relative-caret-position="516">
+              <caret line="113" column="50" lean-forward="false" selection-start-line="113" selection-start-column="50" selection-end-line="113" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -284,12 +291,12 @@
       <workItem from="1511634758858" duration="8049000" />
       <workItem from="1511731222522" duration="1620000" />
       <workItem from="1511989744926" duration="750000" />
-      <workItem from="1512231851169" duration="951000" />
+      <workItem from="1512231851169" duration="2766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19790000" />
+    <option name="totallyTimeSpent" value="21605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
@@ -430,7 +437,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -460,8 +467,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="218" column="80" lean-forward="false" selection-start-line="218" selection-start-column="80" selection-end-line="218" selection-end-column="80" />
+        <state relative-caret-position="516">
+          <caret line="113" column="50" lean-forward="false" selection-start-line="113" selection-start-column="50" selection-end-line="113" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
